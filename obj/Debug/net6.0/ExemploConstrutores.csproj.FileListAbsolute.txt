@@ -1,0 +1,15 @@
+C:\Users\Marina\Documents\DIO\ExemploConstrutores\bin\Debug\net6.0\ExemploConstrutores.exe
+C:\Users\Marina\Documents\DIO\ExemploConstrutores\bin\Debug\net6.0\ExemploConstrutores.deps.json
+C:\Users\Marina\Documents\DIO\ExemploConstrutores\bin\Debug\net6.0\ExemploConstrutores.runtimeconfig.json
+C:\Users\Marina\Documents\DIO\ExemploConstrutores\bin\Debug\net6.0\ExemploConstrutores.dll
+C:\Users\Marina\Documents\DIO\ExemploConstrutores\bin\Debug\net6.0\ExemploConstrutores.pdb
+C:\Users\Marina\Documents\DIO\ExemploConstrutores\obj\Debug\net6.0\ExemploConstrutores.csproj.AssemblyReference.cache
+C:\Users\Marina\Documents\DIO\ExemploConstrutores\obj\Debug\net6.0\ExemploConstrutores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marina\Documents\DIO\ExemploConstrutores\obj\Debug\net6.0\ExemploConstrutores.AssemblyInfoInputs.cache
+C:\Users\Marina\Documents\DIO\ExemploConstrutores\obj\Debug\net6.0\ExemploConstrutores.AssemblyInfo.cs
+C:\Users\Marina\Documents\DIO\ExemploConstrutores\obj\Debug\net6.0\ExemploConstrutores.csproj.CoreCompileInputs.cache
+C:\Users\Marina\Documents\DIO\ExemploConstrutores\obj\Debug\net6.0\ExemploConstrutores.dll
+C:\Users\Marina\Documents\DIO\ExemploConstrutores\obj\Debug\net6.0\refint\ExemploConstrutores.dll
+C:\Users\Marina\Documents\DIO\ExemploConstrutores\obj\Debug\net6.0\ExemploConstrutores.pdb
+C:\Users\Marina\Documents\DIO\ExemploConstrutores\obj\Debug\net6.0\ExemploConstrutores.genruntimeconfig.cache
+C:\Users\Marina\Documents\DIO\ExemploConstrutores\obj\Debug\net6.0\ref\ExemploConstrutores.dll
